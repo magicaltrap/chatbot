@@ -25,6 +25,7 @@ In the PyTorch Tutorial, the [Cornell Movie-Dialogs corpus](https://www.cs.corne
 This dataset contains Question and Answer data from Amazon, totaling around 1.4 million answered questions. I decided to take a subset from the whole dataset, the set from the Electronics category which still has 314,263 questions.
 
 ## Next Steps ##
+- [x] Take a look how the dataset is structured.
 - Preprocess the Amazon dataset to the necessary format (the dataset itself is very nested and unstructured, will take some time) 
 
 |              Question                                                   |        Answer                              |
@@ -32,7 +33,7 @@ This dataset contains Question and Answer data from Amazon, totaling around 1.4 
 |'can i play facebook games on it?'  |'No it is only a reader'|
 |'is it user friendly?'              |"Yes, it's pretty simply and standard functionality is easy to learn how to use."|
 
-- settle on a reasonable minimum and maximum sentence length to speed up training
+- Settle on a reasonable minimum and maximum sentence length to speed up training
 
 
 # Training #
