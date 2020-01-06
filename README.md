@@ -37,7 +37,7 @@ This dataset contains Question and Answer data from Amazon, totaling around 1.4 
 
 # Training #
 
-**File**: `main.ipynb`
+**File**: `train_chatbot.ipynb`
 
 ## Next Steps ##
 
