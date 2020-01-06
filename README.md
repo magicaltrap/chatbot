@@ -16,7 +16,7 @@ Image source: [Joseph Eddy](https://jeddy92.github.io/JEddy92.github.io/ts_seq2s
 
 # Preprocessing #
 
-`amazon_preprocessing.ipynb`:
+`amazon_preprocessing.ipynb`
 
 In the PyTorch Tutorial, the [Cornell Movie-Dialogs corpus](https://www.cs.cornell.edu/~cristian/Cornell_Movie-Dialogs_Corpus.html) was used. It contains 220,579 conversational exchanges between 10,292 pairs of movie characters. However, I rather want to use a "more natural" type of text than movie dialogs to train a chatbot. So I decided to try the [Amazon Question Answer Dataset](http://jmcauley.ucsd.edu/data/amazon/qa/) by Julian McAuley. From the dataset homepage:
 
